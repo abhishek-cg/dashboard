@@ -1,35 +1,18 @@
-# dashboard
+# Vue Task Dashboard
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple task management dashboard built with Vue 3, Vuetify, and Pinia.
 
-## Recommended IDE Setup
+## Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Task listing with status and priority
+- Create, edit, and delete tasks
+- Persistent state using localStorage
+- Dark/Light theme toggle
+- Modal animations
+- Optional: Drag-and-drop and task search
 
 ## Project Setup
 
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
