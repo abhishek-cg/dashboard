@@ -11,6 +11,17 @@ A simple task management dashboard built with Vue 3, Vuetify, and Pinia.
 - Modal animations
 - Optional: Drag-and-drop and task search
 
+
+## Screenshots
+
+### 💡 Light Mode
+![Dashboard Light](public/screenshots/main.png)
+
+### 🌙 Dark Mode
+![Dashboard Dark](public/screenshots/main-dark.png)
+
+### ➕ Add Task Modal
+![Add Task Modal](public/screenshots/add-task.png)
 ## Project Setup
 
 ```bash
